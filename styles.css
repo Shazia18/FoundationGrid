@@ -1,18 +1,37 @@
 .custom-h{
-    background-image: url("ws.jpg");
+    border: 5px solid black;
     height: 390px;
+    
     color: white;
     
     
 }
+/* .custom-h:hover{
+    color: black;
+} */
 .cell-b2{
-    background-image: url("seis.jpg");
+    /* background-image: url("seis.jpg"); */
     height: 195px;
     color: white;
+    border: 5px solid black;
     
 }
 .cell-b1{
-    background-image: url("Amazon.jpg");
+    /* background-image: url("Amazon.jpg"); */
     height: 195px;
-   
+    border: 5px solid black;
+    
+}
+.custom-cell{
+    padding: 0;
+    margin:0;
+}
+.grid-container.custom-one{
+    margin: 0;
+    padding: 0;
+}
+.custom-x{
+    border: 5px solid black;
+    
+    
 }
